@@ -1,0 +1,22 @@
+{
+  "tiles": [
+    {
+      "id": "1",
+      "title": "Request a Cloud Account",
+      "description": "Order a new account in ServiceNow",
+      "platform": "servicenow",
+      "track": "new_user",
+      "type": "service",
+      "linkHref": "#"
+    },
+    {
+      "id": "2",
+      "title": "Confluence Onboarding Docs",
+      "description": "Guides for developers to onboard",
+      "platform": "confluence",
+      "track": "developer",
+      "type": "documentation",
+      "linkHref": "#"
+    }
+  ]
+}
